@@ -1,3 +1,8 @@
+⚠️ Warning! ⚠️
+
+This repository hasn't been maintained in a long time.
+
+
 # Courses Theme
 
 A minimalist Gatsby theme for creating courses
@@ -11,10 +16,6 @@ Check out the [live demo](https://gatsby-theme-courses-demo.netlify.com)
 - Multiple video hosts: Youtube, Facebook, Vimeo, Wistia, Twitch and [more](https://github.com/CookPete/react-player#supported-media) 
 - Styling with Theme UI
 - Responsive
-
-## 🌐Showcase
-
-Your project using this theme goes here
 
 ## 🚀Installation
 
@@ -104,14 +105,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut eleifend nibh vel bl
 You can customize the theme using shadowing
 
 [Shadowing in Gatsby Themes](https://www.gatsbyjs.org/docs/themes/shadowing/)
-
-## ✋Support
-
-If you want to thank me or support this project you can buy me a coffee
-
-<a href="https://www.buymeacoffee.com/3fw5qHM" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-
-Issues and pull requests are welcome
 
 ## License
 
